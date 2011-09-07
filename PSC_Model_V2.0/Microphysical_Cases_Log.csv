@@ -1,0 +1,6 @@
+Microphysical Model Case Log FIle,,,,,,,,,,,,,,,,,,,,,,,
+-,,,,,,,,,,,,,,,,,,,,,,,
+Headers:,,,,,,,,,,,,,,,,,,,,,,,
+Case Name, Temp/Press History File, Ramp Time 1, Ramp Temperature 1, Ramp Time 2, Ramp Temperature 2, Ramp Time 3, Ramp Temperature 3, Ramp Time 4,Ramp Temperature 4, Potential Temp (Bottom Layer), HNO3 Mixing Ratio 1, HNO3 Mixing Ratio 2, HNO3 Mixing Ratio 3, HNO3 Mixing Ratio 4, H20 Mixing Ratio 1, H20 Mixing Ratio 2, H20 Mixing Ratio 3, H20 Mixing Ratio 4, Number Density, Median Radius, Std. Dev., Homogeneous Nucleation, Comments?
+-,,,,,,,,,,,,,,,,,,,,,,,
+example, ---, 0.00, 200.00, 50.00, 200.00, 100.00, 195.00, 150.00, 195.00, 480.00, 5.00, 5.00, 5.00, 5.00, 16.00, 16.00, 16.00, 16.00, 10.00, 0.032, 1.60, 1.000, Yes
